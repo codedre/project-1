@@ -15,7 +15,7 @@ $(document).ready(function() {
 
     var soundBank = ["audio/correct.mp3", "audio/buzz.mp3", "audio/flip.mp3", "audio/love.mp3"];
 
-    var images = ["images/menu/Breakfast1.png", "images/menu/Breakfast2.png", "images/menu/Breakfast3.png", "images/menu/Burger1.png", "images/menu/Burger2.png", "images/menu/Burger3.png", "images/menu/Burger4.png", "images/menu/Coffee1.png", "images/menu/Coffee2.png", "images/menu/Drink1.png", "images/menu/Salad1.png", "images/menu/Sandwich1.png", "images/menu/Sandwich2.png", "images/menu/Sandwich3.png", "images/menu/Sandwich4.png", "images/menu/Side1.png", "images/menu/Side2.png", "images/menu/Side3.png"];
+    var images = ["http://i.imgur.com/KhO2nKe.png", "http://i.imgur.com/pO3SzMI.png", "http://i.imgur.com/4C09MgI.png", "http://i.imgur.com/6SmEKyE.png", "http://i.imgur.com/PDiJ1bI.png", "http://i.imgur.com/kiGZUg9.png", "http://i.imgur.com/iulLxpL.png", "http://i.imgur.com/qx1iJGX.png", "http://i.imgur.com/6ZyLN4N.png", "http://i.imgur.com/rcQdCMB.png", "http://i.imgur.com/8UPS2ND.png", "http://i.imgur.com/kWTskjm.png", "http://i.imgur.com/Zh5aOVc.png", "http://i.imgur.com/TXlGnXu.png", "http://i.imgur.com/eP8jwB7.png", "http://i.imgur.com/Bhdhiwo.png", "http://i.imgur.com/uhhC62q.png", "http://i.imgur.com/efWUnPg.png"];
 
     var level = [{
       row: 2, // test grid
